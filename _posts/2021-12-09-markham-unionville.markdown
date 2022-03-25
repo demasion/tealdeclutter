@@ -17,4 +17,5 @@ A common factor in people wanting to declutter is that they report feeling overw
 
 That's where we come-in. We are a team of professional organizers that have been certified under the KonMari Method of decluttering. Give us a call today for a free consultation and get started on your decluttering journey!
 
-![]({{ site.baseurl }}/images/aldelaide2.jpg) Unionville Project - Walkin Closet
+![]({{ site.baseurl }}/images/uv2.jpg) 
+*Unionville Project - Walkin Closet*

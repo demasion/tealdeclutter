@@ -1,10 +1,4 @@
----
-layout: page
-title: Contact Us
-permalink: /contact/
----
-
-<!-- Generated from https://formkeep.com/forms/b8440cd0a45a/designer/edit on March 28, 2022 02:20 using version 2.03.21 -->
+I"x<!-- Generated from https://formkeep.com/forms/b8440cd0a45a/designer/edit on March 28, 2022 02:20 using version 2.03.21 -->
 <!--
 Instructions
 ============
@@ -18,15 +12,17 @@ You can also dynamically embed the form so that changes made in the Form Designe
 You only need to include jQuery if you've set any Field Rules to hide / show fields.
 For details see https://formkeep.com/forms/b8440cd0a45a/setup
 -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css" integrity="sha256-bZLfwXAP04zRMK2BjiO8iu9pf4FbLqX6zitd+tIvLhE=" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css" integrity="sha256-bZLfwXAP04zRMK2BjiO8iu9pf4FbLqX6zitd+tIvLhE=" crossorigin="anonymous" />
+
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-<div class="container" style="width:800px; margin:0 auto;">
+
+<div class="container">
   <div class="row">
-    <section class="container col-xs-12 col-sm-8 col-sm-offset-2 col-xl-6 col-xl-offset-3 my-4">
+    <section class="container col-sm-5 col-sm-offset-2 col-xl-6 col-xl-offset-3 my-4">
         <div class="container" style="width:100%">
         <form class="" target="_self" enctype="multipart/form-data" action="https://formkeep.com/f/b8440cd0a45a" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
           <fieldset>
-            <br>
+            <br />
               <div class="row">
               <div class="form-group col-xs-12" id="Name__div">
               <label title="required" for="Name">Name *</label>
@@ -58,11 +54,10 @@ For details see https://formkeep.com/forms/b8440cd0a45a/setup
               <input type="date" name="Preferred Date" id="Preferred_Date" required="required" class="form-control" />
           </div>
           </div>
-          <br>
+          <br />
           <div style="opacity:0;position:absolute;top:0;left:-5000px;height:0;width:0">
             <label for="subscribe_b8440cd0a45a_38071"></label>
-            <input name="subscribe_b8440cd0a45a_38071" value="" tabindex="-1" autocomplete="off"
-                   type="email" id="email_subscribe_b8440cd0a45a_38071" placeholder="Your email here">
+            <input name="subscribe_b8440cd0a45a_38071" value="" tabindex="-1" autocomplete="off" type="email" id="email_subscribe_b8440cd0a45a_38071" placeholder="Your email here" />
           </div>
           <div class="row">
             <div class="col-xs-12">
@@ -76,3 +71,4 @@ For details see https://formkeep.com/forms/b8440cd0a45a/setup
   </div>
 </div>
 <!-- Generated from https://formkeep.com/forms/b8440cd0a45a/designer/edit on March 28, 2022 02:20 using version 2.03.21 -->
+:ET

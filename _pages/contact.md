@@ -2,7 +2,7 @@
 layout: page
 title: Contact Us
 permalink: /contact/
-image: contact.png
+image: contact.PNG
 ---
 
 <!-- Generated from https://formkeep.com/forms/b8440cd0a45a/designer/edit on March 28, 2022 02:20 using version 2.03.21 -->

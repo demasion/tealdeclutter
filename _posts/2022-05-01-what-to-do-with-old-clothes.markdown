@@ -37,11 +37,13 @@ You can choose to either sell or donate❗️
 
 🌟Whichever way you choose, Teal Declutter can assistant and guide you along the process. Please get in touch with us if you would like to know more 😊
 
-<br/>
-
 👍🏻Here's a huge shout out to our customer from Oshawa, who did a great job of donating 4 large bags of clothes to Diabetes Canada.
 
-![]({{ site.baseurl }}/images/waste1.jpg)
-*Diabetes Canada's Donation Boxes*
+<br/>
 
+### Donating to Diabetes Canada
+
+<iframe width="455" height="400" src="https://www.youtube.com/embed/nDbAI1m5inE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+***
 

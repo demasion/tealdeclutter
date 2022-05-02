@@ -7,7 +7,7 @@ tags:   Projects
 ---
 This project was completed prior to a move-in. The client has requested for design ideas around adding additional closet space to his 2 bedroom apartment in DownTown Toronto.
 
-With limited space to work with, we had to first figure out the measurements. Our service starts with a FREE consultation session, where we would walk through the living spaces with the client. This step ensures that the team gets clear understanding of what the client is struggling with and come up with the optimal solution.
+With limited spaces to work with, we had to first figure out the measurements. Our service starts with a FREE consultation session, where we would walk through the living spaces with the client. This step ensures that the team gets clear understanding of what the client is struggling with and come up with the optimal solution.
 
 ![]({{ site.baseurl }}/images/aldelaide1.jpg)
 *Kitchen*

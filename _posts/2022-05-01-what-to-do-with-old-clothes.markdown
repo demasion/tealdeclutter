@@ -43,7 +43,7 @@ You can choose to either sell or donate❗️
 
 ### Donating to Diabetes Canada
 
-<iframe width="473" height="841" src="https://www.youtube.com/embed/FFpphBaM324" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="455" height="400" src="https://www.youtube.com/embed/FFpphBaM324" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ***
 

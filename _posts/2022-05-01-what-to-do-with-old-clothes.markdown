@@ -35,7 +35,7 @@ You can choose to either sell or donate❗️
 
 4️⃣Special donation object organizations (such as Dress for woman/ Covenant House/ Jessie's Centre/ Horizons For Young etc.)
 
-🌟Whichever way you choose, Teal Declutter can assistant and guide you along the process. Please get in touch with us if you would like to know more 😊
+🌟Whichever way you choose, TealDeclutter can assistant and guide you along the process. Please get in touch with us if you would like to know more 😊
 
 👍🏻Here's a huge shout out to our customer from Oshawa, who did a great job of donating 4 large bags of clothes to Diabetes Canada.
 

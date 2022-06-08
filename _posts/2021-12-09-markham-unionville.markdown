@@ -5,7 +5,7 @@ date:   2021-12-09 15:01:35 +0300
 image:  03.jpg
 tags:   Projects
 ---
-Decluttering is never about making more space for your items.
+Decluttering is never about creating more space for your items.
 
 Decluttering is the process whereby you decide whether the items in your space are actually clutter and if not, decide where they belong, and action that decision. The process will help you make a permanent change by enabling you to understand why you have clutter in the first place.
 

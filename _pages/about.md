@@ -2,7 +2,7 @@
 layout: page
 title: About Us
 permalink: /about/
-image: banner.png
+image: aboutus.jpg
 ---
 
 Coming Soon!

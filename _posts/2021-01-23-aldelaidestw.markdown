@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Aldelaide St. West
+title:  Aldelaide St. West - Toronto
 date:   2021-11-23 15:01:35 +0300
 image:  aldelaidemain.jpg
 tags:   Projects
